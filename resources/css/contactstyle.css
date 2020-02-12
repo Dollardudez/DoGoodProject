@@ -1,4 +1,4 @@
-body {
+﻿body {
     text-align: center;
     font-family: Helvetica;
     margin: 0;
@@ -6,9 +6,9 @@ body {
 }
 
 #title {
-    color: white;
+    color: #00ffa2;
     font-size: 150px;
-    text-shadow: -.5px -.5px 0 #000, .5px -.5px 0 #000, -.5px .5px 0 #000, .5px .5px 0 #000;
+    //text-shadow: -.5px -.5px 0 white, .5px -.5px 0 white, -.5px .5px 0 white, .5px .5px 0 white;
 }
 
 .header {
@@ -51,20 +51,3 @@ li {
             background-color: #111;
             color: white;
         }
-
-p{
-    margin: 100px 200px;
-    line-height: 26px;
-}
-
-#ourproject {
-    color: black;
-    font-size: 85px;
-}
-
-#thermometer {
-    color: black;
-    font-size: 85px;
-}
-
-
