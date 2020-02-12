@@ -58,7 +58,12 @@ p{
 }
 
 #ourproject {
-    color: black;
+    color: red;
+    font-size: 85px;
+}
+
+#thermometer {
+    color: red;
     font-size: 85px;
 }
 
