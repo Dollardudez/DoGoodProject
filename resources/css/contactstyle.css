@@ -6,18 +6,20 @@
 }
 
 #title {
-    color: #00ffa2;
+    color: #c800ff;
     font-size: 150px;
     //text-shadow: -.5px -.5px 0 white, .5px -.5px 0 white, -.5px .5px 0 white, .5px .5px 0 white;
+    #00ffa2
 }
 
 .header {
-    background-image: url("../images/mainstreet.jpg");
+    background-image: url("../images/identify.svg");
+    background-repeat: no-repeat;
     height: 500px;
     display: flex;
     flex: 1 1 1000px;
-    background-size: cover;
-    background-position: 20% 80%;
+    background-size: contain;
+    background-position: 30% 90%;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;

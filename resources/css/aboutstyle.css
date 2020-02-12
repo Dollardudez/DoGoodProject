@@ -6,13 +6,13 @@
 }
 
 #title {
-    color: #c800ff;
+    color: #00ffa2;
     font-size: 150px;
     //text-shadow: -.5px -.5px 0 white, .5px -.5px 0 white, -.5px .5px 0 white, .5px .5px 0 white;
 }
 
 .header {
-    background-image: url("../images/mainstreet.jpg");
+    background-image: url("../images/Food Drive 2.svg");
     height: 500px;
     display: flex;
     flex: 1 1 1000px;
