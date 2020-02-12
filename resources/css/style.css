@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+    font-family: Helvetica;
+    background-position: 80% 20%;
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    color: white;
+    font-size: 150px;
+    text-shadow: -.5px -.5px 0 #000, .5px -.5px 0 #000, -.5px .5px 0 #000, .5px .5px 0 #000;
+}
+
+.header {
+    background-image: url("../images/mainstreet.jpg");
+    height: 500px;
+    display: flex;
+    flex: 1 1 1000px;
+    background-size: cover;
+    background-position: 20% 80%;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-height: 500px;
+    overflow: hidden;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+    li a {
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        /* Change the link color to #111 (black) on hover */
+        li a:hover {
+            background-color: #111;
+            color: white;
+        }
+
+p{
+    margin: 100px 200px;
+    line-height: 26px;
+}
+
+#ourproject {
+    color: black;
+    font-size: 85px;
+}
+
+
